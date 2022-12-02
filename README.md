@@ -1,6 +1,6 @@
 ## 墨鱼手记
 
-一些关于直播源的使用网址
+## 一些关于直播源的使用网址
 
 ### 1、直播源列表格式转换 - 黑鸟博客
 
@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u
 ```
 https://raw.githubusercontent.com/YueChan/IPTV/main/IPTV.m3u
 ```
-③IPTV源（70个频道）
+③IPTV源1080（70个频道）
 ```
 https://ocd0522.tk/ddgksf2013/Cuttlefish/raw/branch/master/Server/IPTV2022.m3u
 ```
