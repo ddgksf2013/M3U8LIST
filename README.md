@@ -23,5 +23,5 @@ https://raw.githubusercontent.com/YueChan/IPTV/main/IPTV.m3u
 ```
 ③IPTV源1080（70个频道）
 ```
-https://ocd0522.tk/ddgksf2013/Cuttlefish/raw/branch/master/Server/IPTV2022.m3u
+https://github.com/ddgksf2013/M3U8LIST/raw/master/IPTV2022.m3u
 ```
