@@ -13,15 +13,15 @@ http://epg.51zmt.top:8000/
 https://www.foodieguide.com/iptvsearch/
 
 ### 4、自用直播源
-①18+（8145个频道）
+18+（8145个频道）
 ```
 https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u
 ```
-②IPV6超清（92个频道）
+IPV6超清（92个频道）
 ```
 https://raw.githubusercontent.com/YueChan/IPTV/main/IPTV.m3u
 ```
-③IPTV源1080（70个频道）
+IPTV源1080（70个频道）
 ```
 https://github.com/ddgksf2013/M3U8LIST/raw/master/IPTV2022.m3u
 ```
