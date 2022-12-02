@@ -6,7 +6,7 @@
 
 https://guihet.com/tvlistconvert.html
 
-### 2、EPG的频道LOGO列表，实时更新：
+### 2、EPG的频道LOGO列表，实时更新
 http://epg.51zmt.top:8000/
 
 ### 3、IPTV链接搜索引擎:
