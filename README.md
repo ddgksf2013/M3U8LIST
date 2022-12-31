@@ -12,7 +12,7 @@ http://epg.51zmt.top:8000/
 ### 3、IPTV链接搜索引擎:
 https://www.foodieguide.com/iptvsearch/
 
-### 4、自用直播源
+### 4、[自用直播源](https://apps.apple.com/cn/app/id1613758141)
 18+（8145个频道）
 ```
 https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u
@@ -24,4 +24,8 @@ https://raw.githubusercontent.com/YueChan/IPTV/main/IPTV.m3u
 IPTV源1080（70个频道）
 ```
 https://github.com/ddgksf2013/M3U8LIST/raw/master/IPTV2022.m3u
+```
+肥羊百视通（94个频道）
+```
+https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/bestv.m3u
 ```
