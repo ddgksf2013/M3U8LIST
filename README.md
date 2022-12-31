@@ -7,12 +7,18 @@
 https://guihet.com/tvlistconvert.html
 
 ### 2、EPG的频道LOGO列表，实时更新
+
 http://epg.51zmt.top:8000/
 
 ### 3、IPTV链接搜索引擎:
+
 https://www.foodieguide.com/iptvsearch/
 
-### 4、[自用直播源](https://apps.apple.com/cn/app/id1613758141)
+### 4、播放工具推荐
+
+https://apps.apple.com/cn/app/id1613758141
+
+### 5、自用直播源
 18+（8145个频道）
 ```
 https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u
