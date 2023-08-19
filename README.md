@@ -35,3 +35,7 @@ https://github.com/ddgksf2013/M3U8LIST/raw/master/IPTV2022.m3u
 ```
 https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/bestv.m3u
 ```
+owen2000（201个频道）
+```
+https://jihulab.com/owen2000wy/owentv/-/raw/main/HP20230319.m3u
+```
