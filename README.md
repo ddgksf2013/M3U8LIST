@@ -29,7 +29,7 @@ https://raw.githubusercontent.com/YueChan/IPTV/main/IPTV.m3u
 ```
 IPTV源1080（70个频道）
 ```
-https://github.com/ddgksf2013/M3U8LIST/raw/master/IPTV2022.m3u
+https://github.com/ddgksf2013/M3U8LIST/raw/master/IPTV2024.m3u
 ```
 肥羊百视通（94个频道）
 ```
